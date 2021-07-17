@@ -30,4 +30,6 @@ $ python main.py
 ```
 - Thats it!! Your bot must be up and running in the desired server. You can look up the commands by using: ```cp!help```
 
-
+## contributor
+Dhruv Goyal
+P.S. Satvik
